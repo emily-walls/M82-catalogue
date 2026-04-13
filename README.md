@@ -10,7 +10,7 @@ The catalogue was last updated 13/4/2026.
 
 
 Guidance for the catalogue:
-SOURCE_NAME         - Source name, most names originate from B1950 naming convention
+SOURCE_NAME         - Source name, most names originate from B1950 naming convention 
 RA_(J2000)          - Right Ascension in J20000 coordinates
 DEC_(J2000)         - Declination in J2000 coordinates
 JD_OBS              - Julian Date the observations occured on 
