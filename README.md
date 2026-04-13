@@ -5,3 +5,5 @@ Some example source names to use are: 41.95+57.5 and SN2008iz.
 There will be a list of avaliable sources to choose from in the near future.
 
 The code also produces a smaller output catalogue for the values extracted from the main catalogue for the source chosen.
+
+The catalogue was last updated 13/4/2026.
